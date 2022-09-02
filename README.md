@@ -1,4 +1,4 @@
-# borrower_reliability_study
+# borrower_reliability_research
 
 Исследование надёжности заёмщиков
 
